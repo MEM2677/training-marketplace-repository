@@ -3,17 +3,17 @@ Marketplace simulation example
 
 This project is composed of three Maven projects:
 
- - ''everis-components'' this base project is for common plugins and ui-bundles, to share among different
+ - **everis-components** this base project is for common plugins and ui-bundles, to share among different
  projects.
  This projects contains a simple hello world plugin and no bundles. If bundles were
  present they would  contain only fallbacks or general inclusion of technology stuff (e.g. Bootstrap, JQuery etc etc)
 
- - ''everis-per-product-repo1'' this repository contains no plugins (but it could if needed) but a 
+ - **everis-per-product-repo1** this repository contains no plugins (but it could if needed) but a 
 ui-bundle for the generic product 1 line.
 Using this template would also import automatically the plugin from the everis-component container.
 This template would introduce in the target Entando webapp a new page model called *everis-product-one-theme*
 
- - ''everis-per-product-repo2'' contains a different version of the template, suitable for the generic product 2 line.
+ - **everis-per-product-repo2** contains a different version of the template, suitable for the generic product 2 line.
 Again, the business logic is the same - the hello world plugin is automatically imported - but the bundle available in this repository, *everis-product-two-theme* , is slightly different.
 
 
