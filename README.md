@@ -28,3 +28,8 @@ Entando POM.XML file
 	</dependency
 	
 otherwise use the *everis-product-two-theme* artifactId
+
+Installation order
+==================
+
+The first project to install is the **everis-components** project, followed by the remainig two in any order 
