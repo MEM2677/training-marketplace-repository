@@ -27,4 +27,4 @@ Entando POM.XML file
 		<type>war</type>
 	</dependency
 	
-otherwise use the *everis-product-two-theme* atrifactId
+otherwise use the *everis-product-two-theme* artifactId
