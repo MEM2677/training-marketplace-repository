@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<code>everis-product-one-theme</code>
+	<description>Page: Everis Product1 theme</description>
+	<dependencies>
+            <code>jphello</code>
+	</dependencies>
+	<installation>
+		<environment code="production">
+			<defaultSqlResources>
+				<datasource name="portDataSource">
+classpath:sql/bundles/everis-product-one-theme/port_data_production.sql
+				</datasource>
+				<datasource name="servDataSource">
+classpath:sql/bundles/everis-product-one-theme/serv_data_production.sql
+				</datasource>
+			</defaultSqlResources>
+		</environment>
+	</installation>
+</component>
