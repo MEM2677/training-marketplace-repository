@@ -24,7 +24,6 @@
         <url>http://www.entando.com/</url>
     </organization>
     <modules>
-        
     <module>everis-plugin-jphello</module>
     <module>everis-plugin-jpben</module>
     <module>everis-plugin-jpdvilas</module>
