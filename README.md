@@ -25,7 +25,7 @@ Entando POM.XML file
 		<groupId>es.everis.entando.bundles.pages</groupId>
 		<version>${entando.version}</version>
 		<type>war</type>
-	</dependency
+	</dependency>
 	
 otherwise use the *everis-product-two-theme* artifactId
 
