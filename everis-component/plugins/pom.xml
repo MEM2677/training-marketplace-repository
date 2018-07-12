@@ -26,7 +26,8 @@
     <modules>
         
         <module>everis-plugin-jphello</module>
-    </modules>
+    <module>everis-plugin-jpmiguelangel</module>
+  </modules>
     <profiles>
         <profile>
             <id>java8</id>
