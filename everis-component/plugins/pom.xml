@@ -26,8 +26,10 @@
     <modules>
         
         <module>everis-plugin-jphello</module>
-    <module>everis-plugin-jpmiguelangel</module>
-  </modules>
+	    <module>everis-plugin-jpben</module>	
+	    <module>everis-plugin-jpmiguelangel</module>
+	    <module>everis-plugin-jpdvilas</module>
+    </modules>
     <profiles>
         <profile>
             <id>java8</id>
