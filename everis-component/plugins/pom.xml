@@ -26,9 +26,11 @@
     <modules>
         
     <module>everis-plugin-jphello</module>
-    <module>everis-plugin-jpdvilas</module>
     <module>everis-plugin-jpben</module>
-
+    <module>everis-plugin-jpdvilas</module>
+    <module>everis-plugin-jpvictor</module>
+    <module>everis-plugin-jpsatoshi</module>
+    
   </modules>
     <profiles>
         <profile>

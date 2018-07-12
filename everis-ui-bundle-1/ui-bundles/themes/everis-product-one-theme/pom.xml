@@ -73,6 +73,5 @@
             <scope>provided</scope>
             <classifier>classes</classifier>
         </dependency>
-        
     </dependencies>
 </project>
