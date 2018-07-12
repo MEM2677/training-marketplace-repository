@@ -1,1 +1,0 @@
-<h3>Victor's widget</h3>
